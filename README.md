@@ -6,5 +6,6 @@ Place bapple.py in the same directory as a file called video.mp4, run it, and it
 Not intended for colour video, it will work but it won't make much sense watching the video back
 
 If you want to edit the grid size, replace both instances of '24' in the code.
+[image]
 
-https://github.com/qwesome/bapple3_generator/blob/main/example-frame.png
+[image]: https://github.com/qwesome/bapple3_generator/blob/main/example-frame.png

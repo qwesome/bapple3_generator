@@ -1,4 +1,4 @@
-# bapple3_generator
+# bad apple³ generator
 Built to directly make bad apple out of bad apples but it could technically be used for any video file.
 (see https://www.tiktok.com/@orsonhitchman/video/7573287862410464528 for an example)
 ## INSTRUCTIONS
